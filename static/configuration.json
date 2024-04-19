@@ -7,16 +7,17 @@
     "useBackgroundImage": false,
     "backgroundColorLeft": "#706868",
     "backgroundColorRight": "#4E4545",
-    "audioUrl": "http://sc1.111ttt.cn:8282/2018/1/03m/13/396131232171.m4a?tflag=1519095601&pin=6cd414115fdb9a950d827487b16b5f97#.mp3",
+    "audioUrl": "http://m701.music.126.net/20240419152551/942cfa0c78b054a5536b2e2029d60077/jdyyaac/obj/w5rDlsOJwrLDjj7CmsOj/14096574807/b79d/965c/96b1/ee690087dfcd2913a5dfac14e6ffcc5c.m4a",
+    "audioUrl_Back": "http://m10.music.126.net/20240419153505/932f0ac3603c6ce489a3f4809201338a/yyaac/065e/0453/0f5f/147df0a7f4397ac5488d854155696dca.m4a",
     "mini": true,
     "webSites": [
         {
-            "name": "个人网站",
-            "url": "https://lmxlmx123.github.io"
+            "name": "掘金-前端",
+            "url": "https://juejin.cn/user/1644525125113245/posts"
         },
         {
             "url": "https://blog.csdn.net/qq_26941173",
-            "name": "个人博客"
+            "name": "CSDN-前端"
         }
     ],
     "audioAutoPlay": false
